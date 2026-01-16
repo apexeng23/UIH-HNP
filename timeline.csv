@@ -151,8 +151,8 @@ Release#3,7.6: Deliver Training Sessions,0
 Release#3,7.6.1: Conduct online training for System Admins,0
 Release#3,7.6.2: Conduct online training for Development team,0
 Release#3,7.7: Deliver Full Documentation Package,0
-Release#3,7.7.1: Installation Acceptance,0.95
-Release#3,7.7.2: Configuration Acceptance,0.8
+Release#3,7.7.1: Installation Acceptance,1
+Release#3,7.7.2: Configuration Acceptance,1
 Release#3,7.7.3: Operation Manual,0
 Release#3,7.7.4: Troubleshooting Guide,0
 Release#3,7.7.5: POC Test Report,1
@@ -161,5 +161,5 @@ Release#3,7.7.7: UAT Test Report,0
 Release#3,7.7.8: Source Code Package,0
 Release#3,7.7.9: Configuration Scripts,0
 Release#3,7.7.10: Monitoring Templates,0
-Release#3,7.7.11: Software Design Specification (SDS),0.25
+Release#3,7.7.11: Software Design Specification (SDS),1
 Release#3,7.7.12: API Specification Document,0
